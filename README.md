@@ -8,7 +8,7 @@
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=martinsmf)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=martinsmf&theme=tokyonight" alt="martinsmf" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinsmf)
+![[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinsmf)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martinsmf&theme=dark" alt="martinsmf" /></p>
 
 
