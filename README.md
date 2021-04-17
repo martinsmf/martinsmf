@@ -7,7 +7,7 @@
 <p><a href="https://www.buymeacoffee.com/martinsmf"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="martinsmf" /></a></p><br><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=martinsmf&theme=tokyonight" alt="martinsmf" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=martinsmf&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="martinsmf" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martinsmf&theme=dark" alt="martinsmf" /></p>
 
 
