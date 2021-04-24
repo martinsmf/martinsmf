@@ -12,7 +12,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martinsmf&theme=dark" alt="martinsmf" /></p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinsmf&theme=tokyonight&layout=compact)](https://github.com/martinsmf/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=martinsmf&show_icons=true&theme=tokyonight&locale=en&layout=compact)](https://github.com/martinsmf/github-readme-stats)
 
 
 
