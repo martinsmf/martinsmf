@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou o Matheus</h1><h3 style='text-align: left;'>Sou recém-formado em Sistemas de Informação.</h3><p><p style='text-align: left;'>- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/martinsmf](https://github.com/martinsmf)</p>
+<h1 align="center">Olá 👋, sou o Matheus</h1><h3 style='text-align: left;'>Sou recém-formado em Sistemas de Informação.</h3><p><p style='text-align: left;'>- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/martinsmf](https://github.com/martinsmf)]</p>
 <img src="https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif" width="150" height="150" align="right" />
 <p>-:computer: ​ Atualmente atuo como QA, fazendo levantamento de casos de teste, e realizando teste manuais e automatizados.</p>
 <p>-:books: E estou estudando e praticando testes automatizados diariamente.</p>
@@ -7,7 +7,7 @@
 <p><a href="https://www.buymeacoffee.com/martinsmf"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="martinsmf" /></a></p><br><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=martinsmf&theme=tokyonight" alt="martinsmf" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsmf&layout=compact&theme=tokyonight" alt="martinsmf" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsmf&layout=compact&theme=tokyonight" alt="martinsmf" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martinsmf&theme=dark" alt="martinsmf" /></p>
 
 
